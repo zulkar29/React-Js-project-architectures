@@ -7,3 +7,9 @@ React Js
 Vite
 StoryBook
 
+### Convention we have follod
+ABEM Naming convention.
+Atomic component Design.
+ITCSS architectures for manage CSS file.
+Commit Rules.
+Hygen for code generator.
