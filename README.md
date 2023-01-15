@@ -5,11 +5,11 @@ For make this project sclable and manageble we had followed differnt architectur
 ### Package we have used for this architectures setup
 React Js \
 Vite \
-StoryBook \
+StoryBook
 
 ### Convention we have follod
-ABEM Naming convention.
-Atomic component Design.
-ITCSS architectures for manage CSS file.
-Commit Rules.
+ABEM Naming convention.\
+Atomic component Design.\
+ITCSS architectures for manage CSS file.\
+Commit Rules.\
 Hygen for code generator.
