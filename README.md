@@ -3,9 +3,9 @@ For make this project sclable and manageble we had followed differnt architectur
 
 
 ### Package we have used for this architectures setup
-React Js
-Vite
-StoryBook
+React Js \
+Vite \
+StoryBook \
 
 ### Convention we have follod
 ABEM Naming convention.
