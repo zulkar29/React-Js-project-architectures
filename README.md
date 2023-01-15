@@ -7,7 +7,7 @@ React Js \
 Vite \
 StoryBook
 
-### Convention we have follod
+### Convention we have followed.
 ABEM Naming convention.\
 Atomic component Design.\
 ITCSS architectures for manage CSS file.\
